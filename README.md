@@ -1,7 +1,7 @@
 ---
 title: 'The Unintuitive Math Behind "Play Your Cards Right"'
 date: 2023-12-13 12:13:14
-featured_image: '/images/cards/pub.jpg'
+featured_image: '/images/cards/pub.png'
 featured_image_h: 50
 featured_image_w: 50
 excerpt: A quick post on estimating a probability of winning a rather simple card game.
