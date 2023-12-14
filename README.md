@@ -61,7 +61,7 @@ You can see that when considering the cards removed from the deck the tree of po
 
 To estimate the probability of a win, I'm going to simulate a large number of these games played. I'll simulate the player always making the optimal decision (i.e. picking the more likely outcome based on the cards still left in the deck). And I'll look at how many of the games end up winning after 12 rounds. This kind of probabilistic simulation is a great way to estimate probabilities of events that might be difficult to calculate mathematically.
 
-For those interested in the messy code, see [here](URL).
+For those interested in the messy code, see [here](https://github.com/laky/play-your-cards-right/blob/main/simulate.py).
 
 Afterwards, I ran the the game 1,000,000,000 times because that seems like a nice big round number. About 15 hours of productive waiting later, we have the answer: we managed to win 13,475,343 out of 1,000,000,000 games, giving us the **probability of winning as ~1.35%**!
 
